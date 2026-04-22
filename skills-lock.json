@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "skills": {
+    "python-mcp-server-generator": {
+      "source": "github/awesome-copilot",
+      "sourceType": "github",
+      "computedHash": "2b598920b5fdc807c9ee5b69bad23b8327c4ea5f1178c38d3a99a9e06a49e628"
+    }
+  }
+}

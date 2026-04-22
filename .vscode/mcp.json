@@ -1,0 +1,10 @@
+{
+  "servers": {
+    "pyside-mcp": {
+      "type": "stdio",
+      "command": "uv",
+      "args": ["run", "main.py"],
+      "cwd": "${workspaceFolder}"
+    }
+  }
+}
